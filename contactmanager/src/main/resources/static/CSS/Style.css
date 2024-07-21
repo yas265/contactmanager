@@ -1,0 +1,21 @@
+body{
+    background: black;
+}
+
+.bg-prime{
+    background: #009688!important;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+
+.banner{
+    width: 100%;
+    height: 90vh;
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../Img/bg-banner2.jpg");
+    background-size: cover;
+}
