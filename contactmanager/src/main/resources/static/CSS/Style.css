@@ -1,5 +1,5 @@
 body{
-    background: black;
+    background: #e2e2e2!important;
 }
 
 .bg-prime{
@@ -18,4 +18,9 @@ body{
     height: 90vh;
     background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../Img/bg-banner2.jpg");
     background-size: cover;
+}
+
+.my-reg-card{
+    background: #ffffff;
+    padding: 20px;
 }
